@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkTracker.Data", "WorkTra
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{22FCB4DC-9549-4EFD-AB36-895804517881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkTracker.Utility", "WorkTracker.Utility\WorkTracker.Utility.csproj", "{5B158D48-21D0-4E86-85D4-E987B2A6CC73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkTracker.Utility", "WorkTracker.Utility\WorkTracker.Utility.csproj", "{5B158D48-21D0-4E86-85D4-E987B2A6CC73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

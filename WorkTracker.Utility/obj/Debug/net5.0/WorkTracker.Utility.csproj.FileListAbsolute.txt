@@ -10,14 +10,3 @@ D:\Work\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.csproj.CoreComp
 D:\Work\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.dll
 D:\Work\WorkTracker.Utility\obj\Debug\net5.0\ref\WorkTracker.Utility.dll
 D:\Work\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.pdb
-D:\Work\WorkTracker\WorkTracker.Utility\bin\Debug\net5.0\WorkTracker.Utility.deps.json
-D:\Work\WorkTracker\WorkTracker.Utility\bin\Debug\net5.0\WorkTracker.Utility.dll
-D:\Work\WorkTracker\WorkTracker.Utility\bin\Debug\net5.0\ref\WorkTracker.Utility.dll
-D:\Work\WorkTracker\WorkTracker.Utility\bin\Debug\net5.0\WorkTracker.Utility.pdb
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.GeneratedMSBuildEditorConfig.editorconfig
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.AssemblyInfoInputs.cache
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.AssemblyInfo.cs
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.csproj.CoreCompileInputs.cache
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.dll
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\ref\WorkTracker.Utility.dll
-D:\Work\WorkTracker\WorkTracker.Utility\obj\Debug\net5.0\WorkTracker.Utility.pdb
