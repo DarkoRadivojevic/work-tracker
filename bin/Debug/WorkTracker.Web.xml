@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WorkTracker.Web</name>
+    </assembly>
+    <members>
+        <member name="T:WorkTracker.Web.Controllers.ProjectController">
+            <summary>
+            API Controller for the project model
+            </summary>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.ProjectController.GetProjects">
+            <summary>
+            Gets all projects
+            </summary>
+            <returns>Returns <see cref="T:System.Collections.Generic.List`1"/></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.ProjectController.GetProject(System.Int32)">
+            <summary>
+            Gets a project
+            </summary>
+            <param name="id">Id of the project</param>
+            <returns>Returns <see cref="T:WorkTracker.Web.Models.ProjectModel"/></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.ProjectController.AddProject(WorkTracker.Web.Models.ProjectModel)">
+            <summary>
+            Adds a project
+            </summary>
+            <param name="project">Project to be added</param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.ProjectController.DeleteProject(System.Int32)">
+            <summary>
+            Deletes a project
+            </summary>
+            <param name="id">Id of the project</param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.ProjectController.UpdateProject(WorkTracker.Web.Models.ProjectModel)">
+            <summary>
+            Updates a project
+            </summary>
+            <param name="project">Project to be updated</param>
+            <returns></returns>
+        </member>
+        <member name="T:WorkTracker.Web.Controllers.TaskController">
+            <summary>
+            API Controller for the task model
+            </summary>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.TaskController.GetTasks">
+            <summary>
+            Gets all tasks
+            </summary>
+            <returns>Returns a <see cref="T:System.Collections.Generic.List`1"/></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.TaskController.GetTasks(System.Int32)">
+            <summary>
+            Returns all tasks related to one project
+            </summary>
+            <param name="projectId">Id of the project</param>
+            <returns>Return a <see cref="T:System.Collections.Generic.List`1"/></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.TaskController.GetTask(System.Int32)">
+            <summary>
+            Gets a task 
+            </summary>
+            <param name="id">Id of the task</param>
+            <returns>Returns a <see cref="T:WorkTracker.Web.Models.TaskModel"/></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.TaskController.AddTask(WorkTracker.Web.Models.TaskModel)">
+            <summary>
+            Adds a tasks
+            </summary>
+            <param name="task">Task to be added</param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.TaskController.DeleteTask(System.Int32)">
+            <summary>
+            Deletes a task
+            </summary>
+            <param name="id">Id of the task</param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkTracker.Web.Controllers.TaskController.UpdateTask(WorkTracker.Web.Models.TaskModel)">
+            <summary>
+            Updates a tasks
+            </summary>
+            <param name="task">Task to be updated</param>
+            <returns></returns>
+        </member>
+        <member name="T:WorkTracker.Web.Models.ProjectModel">
+            <summary>
+            Project model object
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.ProjectModel.Id">
+            <summary>
+            Id of the project
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.ProjectModel.Name">
+            <summary>
+            Name of the project
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.ProjectModel.Tasks">
+            <summary>
+            Assoicated tasks
+            </summary>
+        </member>
+        <member name="T:WorkTracker.Web.Models.TaskModel">
+            <summary>
+            Task model object
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.TaskModel.Id">
+            <summary>
+            Id of the tasks
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.TaskModel.TaskName">
+            <summary>
+            Name of the task
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.TaskModel.TaskDescription">
+            <summary>
+            Description of the task
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.TaskModel.ProjectId">
+            <summary>
+            Id of the assoicated project
+            </summary>
+        </member>
+        <member name="P:WorkTracker.Web.Models.TaskModel.Project">
+            <summary>
+            Associated project
+            </summary>
+        </member>
+    </members>
+</doc>

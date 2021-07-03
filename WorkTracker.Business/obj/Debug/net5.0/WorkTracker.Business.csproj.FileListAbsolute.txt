@@ -1,0 +1,17 @@
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.AssemblyInfoInputs.cache
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.AssemblyInfo.cs
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.csproj.CoreCompileInputs.cache
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Business.deps.json
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Business.dll
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\ref\WorkTracker.Business.dll
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Business.pdb
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Data.dll
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Utility.dll
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Data.pdb
+D:\Work\WorkTracker\WorkTracker.Business\bin\Debug\net5.0\WorkTracker.Utility.pdb
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.csproj.AssemblyReference.cache
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.csproj.CopyComplete
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.dll
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\ref\WorkTracker.Business.dll
+D:\Work\WorkTracker\WorkTracker.Business\obj\Debug\net5.0\WorkTracker.Business.pdb

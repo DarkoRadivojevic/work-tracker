@@ -1,0 +1,14 @@
+D:\Work\TaskTracker.Web\TaskTracker.Data\bin\Debug\net5.0\TaskTracker.Data.deps.json
+D:\Work\TaskTracker.Web\TaskTracker.Data\bin\Debug\net5.0\TaskTracker.Data.runtimeconfig.json
+D:\Work\TaskTracker.Web\TaskTracker.Data\bin\Debug\net5.0\TaskTracker.Data.runtimeconfig.dev.json
+D:\Work\TaskTracker.Web\TaskTracker.Data\bin\Debug\net5.0\TaskTracker.Data.dll
+D:\Work\TaskTracker.Web\TaskTracker.Data\bin\Debug\net5.0\ref\TaskTracker.Data.dll
+D:\Work\TaskTracker.Web\TaskTracker.Data\bin\Debug\net5.0\TaskTracker.Data.pdb
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.AssemblyInfoInputs.cache
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.AssemblyInfo.cs
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.csproj.CoreCompileInputs.cache
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.dll
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\ref\TaskTracker.Data.dll
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.pdb
+D:\Work\TaskTracker.Web\TaskTracker.Data\obj\Debug\net5.0\TaskTracker.Data.genruntimeconfig.cache

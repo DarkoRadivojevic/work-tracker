@@ -1,0 +1,15 @@
+D:\Work\TaskTracker.Web\TaskTracker.Business\bin\Debug\net5.0\TaskTracker.Business.deps.json
+D:\Work\TaskTracker.Web\TaskTracker.Business\bin\Debug\net5.0\TaskTracker.Business.dll
+D:\Work\TaskTracker.Web\TaskTracker.Business\bin\Debug\net5.0\ref\TaskTracker.Business.dll
+D:\Work\TaskTracker.Web\TaskTracker.Business\bin\Debug\net5.0\TaskTracker.Business.pdb
+D:\Work\TaskTracker.Web\TaskTracker.Business\bin\Debug\net5.0\TaskTracker.Data.dll
+D:\Work\TaskTracker.Web\TaskTracker.Business\bin\Debug\net5.0\TaskTracker.Data.pdb
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.csproj.AssemblyReference.cache
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.AssemblyInfoInputs.cache
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.AssemblyInfo.cs
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.csproj.CoreCompileInputs.cache
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.csproj.CopyComplete
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.dll
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\ref\TaskTracker.Business.dll
+D:\Work\TaskTracker.Web\TaskTracker.Business\obj\Debug\net5.0\TaskTracker.Business.pdb

@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+  worktracker.web:
+    container_name: WorkTracker.Web
+    hostname: WorkTracker.Web
+    image: ${DOCKER_REGISTRY-}worktrackerweb
+    build:
+      context: .
+      dockerfile: WorkTracker.Web/Dockerfile
+    depends_on: 
+        - worktracker.sql
+
+  worktracker.sql: 
+    container_name: WorkTacker.Sql
+    hostname: WorkTacker.Sql
+    image: "mcr.microsoft.com/mssql/server"
+    ports: 
+        - "1433:1433"
+    environment:
+        SA_PASSWORD: "SQLDbPassword@2021"
+        ACCEPT_EULA: "Y"
+    volumes:
+       - db-data:/var/lib/mssql/data
+
+volumes:
+    db-data:
