@@ -9,6 +9,31 @@
 
 The Work Tracker API is an easy to use application for tracking projects and progress of its tasks.
 
+### [Five W](https://en.wikipedia.org/wiki/Five_Ws)
+
+#### Who
+-[Me](https://www.linkedin.com/in/darko-radivojevic-984a451a0/) aka Darko
+
+#### What
+- This project is ASP.NET Core 5 Web API application build wiht an N-layer architecutre containerized using Docker. It provides functionality of creating projects and adding tasks to them.
+    - The Web layer is documented with Swagger and prvoides endopoints
+        - Helps us achieve the [DI pattern](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0) 
+    - The Business layer handles the rules of the project
+        - Implements the service pattern 
+    - The Data layer stores the data in a __MS SQL__ database
+        - Implents the repository pattern
+
+- The app itself is made into a docker image and made a part of our docker composition with the MS SQL server image provided by MS using __Linux containers__. 
+
+#### When 
+- When you complete [this](#Steps-to-run) 
+
+#### Where
+- [Repo url](https://github.com/DarkoRadivojevic/work-tracker) 
+
+#### Why 
+- Code task to represent my skillset.- 
+
 ## How to run
 
 The projects uses various open source projects including:
@@ -22,12 +47,11 @@ The projects uses various open source projects including:
 
 And the project itself is open source.
 
-#### First steps
+#### Steps to run
 
 1. Clone the repo
     - `git clone <ssh or https>` 
         - [Git clone docs](https://git-scm.com/docs/git-clone) 
-    - [Repo url](https://github.com/DarkoRadivojevic/work-tracker) 
 2. Install docker for your OS and set it to use Linux containers
     - [Docker](https://www.docker.com/products/docker-desktop) 
 3. Build solution
