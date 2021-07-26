@@ -1,19 +1,19 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using System;
+using System.IO;
+using System.Reflection;
 using WorkTracker.Business.Services.Implementations;
 using WorkTracker.Business.Services.Interfaces;
 using WorkTracker.Data.Infrastructure;
 using WorkTracker.Data.Repository.Implementations;
 using WorkTracker.Data.Repository.Interfaces;
-using Microsoft.EntityFrameworkCore;
 using WorkTracker.Web.Models.Mappings;
-using System.Reflection;
-using System;
-using System.IO;
 
 namespace WorkTracker.Web
 {
